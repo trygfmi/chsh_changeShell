@@ -362,7 +362,7 @@ echo $SHELL</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>cat /etc/shells</code></pre>
+<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>cat etc/shells #etcの前に/をつけてください</code></pre>
 
 
 
