@@ -33,9 +33,7 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh
-#デスクトップ画面右上から一度ログアウトしてください
-echo $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh#デスクトップ画面右上から一度ログアウトしてくださいecho $SHELL</code></pre>
 
 
 
@@ -55,9 +53,7 @@ echo $SHELL</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/zsh
-#新しいウィンドウをctrl+nまたはcmd+nで開く
-echo $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/zsh#新しいウィンドウをctrl+nまたはcmd+nで開くecho $SHELL</code></pre>
 
 
 
@@ -78,9 +74,7 @@ echo $SHELL</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh
-#一度プロンプトを閉じてもう一度開いてください
-echo $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh#一度プロンプトを閉じてもう一度開いてくださいecho $SHELL</code></pre>
 
 
 
@@ -96,7 +90,7 @@ echo $SHELL</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -125,11 +119,11 @@ echo $SHELL</code></pre>
 
 <div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -139,11 +133,11 @@ echo $SHELL</code></pre>
 
 <div class="wp-block-group">
 <p>端末にcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -156,9 +150,7 @@ echo $SHELL</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh
-#デスクトップ画面右上から一度ログアウトしてください
-echo $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh#デスクトップ画面右上から一度ログアウトしてくださいecho $SHELL</code></pre>
 
 
 
@@ -184,7 +176,7 @@ echo $SHELL</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -207,11 +199,11 @@ echo $SHELL</code></pre>
 
 <div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -224,9 +216,7 @@ echo $SHELL</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/zsh
-#新しいウィンドウをctrl+nまたはcmd+nで開く
-echo $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/zsh#新しいウィンドウをctrl+nまたはcmd+nで開くecho $SHELL</code></pre>
 
 
 
@@ -256,7 +246,7 @@ echo $SHELL</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -264,7 +254,7 @@ echo $SHELL</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -294,16 +284,16 @@ echo $SHELL</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
 <h5 class="wp-block-heading">MSYS2 MINGW64</h5>
-
-
-
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -321,9 +311,7 @@ echo $SHELL</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh
-#一度プロンプトを閉じてもう一度開いてください
-echo $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh#一度プロンプトを閉じてもう一度開いてくださいecho $SHELL</code></pre>
 
 
 
@@ -339,7 +327,7 @@ echo $SHELL</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -358,16 +346,16 @@ echo $SHELL</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>cat etc/shells #etcの前に/をつけてください</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>cat etc/shells #etcの前に/をつけてください</code></pre>
 
 
 
 <p>を実行することで/bin/shや/bin/zsh以外のシェルに変更することが可能です<br>chshに-sオプションを付けない場合、エディタが開いて手動で変更することになります<br>動作確認が終了したら</p>
-
-
-
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>cat etc/shells #etcの前に/をつけてください</code></pre>
 </div>
+
+
+
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>cat etc/shells #etcの前に/をつけてください</code></pre>
 
 
 
@@ -375,9 +363,8 @@ echo $SHELL</code></pre>
 
 
 
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>chsh -s /bin/bash</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/bash</code></pre>
 
 
 
 <p>を実行してください</p>
-
