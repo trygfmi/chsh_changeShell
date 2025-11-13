@@ -33,7 +33,9 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh#デスクトップ画面右上から一度ログアウトしてくださいecho $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh
+#デスクトップ画面右上から一度ログアウトしてください
+echo $SHELL</code></pre>
 
 
 
@@ -53,7 +55,9 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/zsh#新しいウィンドウをctrl+nまたはcmd+nで開くecho $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/zsh
+#新しいウィンドウをctrl+nまたはcmd+nで開く
+echo $SHELL</code></pre>
 
 
 
@@ -74,7 +78,9 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh#一度プロンプトを閉じてもう一度開いてくださいecho $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh
+#一度プロンプトを閉じてもう一度開いてください
+echo $SHELL</code></pre>
 
 
 
@@ -150,7 +156,9 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh#デスクトップ画面右上から一度ログアウトしてくださいecho $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh
+#デスクトップ画面右上から一度ログアウトしてください
+echo $SHELL</code></pre>
 
 
 
@@ -216,7 +224,9 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/zsh#新しいウィンドウをctrl+nまたはcmd+nで開くecho $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/zsh
+#新しいウィンドウをctrl+nまたはcmd+nで開く
+echo $SHELL</code></pre>
 
 
 
@@ -254,7 +264,7 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -293,7 +303,7 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -311,7 +321,9 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh#一度プロンプトを閉じてもう一度開いてくださいecho $SHELL</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>chsh -s /bin/sh
+#一度プロンプトを閉じてもう一度開いてください
+echo $SHELL</code></pre>
 
 
 
