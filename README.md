@@ -125,11 +125,11 @@ echo $SHELL</code></pre>
 
 <div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -139,11 +139,11 @@ echo $SHELL</code></pre>
 
 <div class="wp-block-group">
 <p>端末にcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -207,11 +207,11 @@ echo $SHELL</code></pre>
 
 <div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -299,11 +299,11 @@ echo $SHELL</code></pre>
 
 
 <h5 class="wp-block-heading">MSYS2 MINGW64</h5>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+</div>
 
 
 
@@ -363,7 +363,6 @@ echo $SHELL</code></pre>
 
 
 <p>を実行することで/bin/shや/bin/zsh以外のシェルに変更することが可能です<br>chshに-sオプションを付けない場合、エディタが開いて手動で変更することになります<br>動作確認が終了したら</p>
-</div>
 
 
 
@@ -380,3 +379,4 @@ echo $SHELL</code></pre>
 
 
 <p>を実行してください</p>
+</div>
