@@ -3,4 +3,3 @@ __pycache__
 translate
 *.env
 command_example.sh
-*.env
